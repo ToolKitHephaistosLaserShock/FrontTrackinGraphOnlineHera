@@ -15,4 +15,6 @@
 - -> Frame advance
 - <- Frame back
 - Range : scale on image in um
-**VideoTestFront.zip is .avi video with a front
+**VideoTestFront.zip is .avi video with a front**
+
+**Do not forget : pip install opencv-python**
